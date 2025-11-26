@@ -18,8 +18,7 @@ This is a responsive agriculture website built with HTML, CSS, and JavaScript. T
 
 ## Getting Started
 To run the project locally:
-1. Clone the repository:  
-   `git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git`
+1. Clone the repository:  https://github.com/Michael-Somuah/Farm/blob/main/README.md
 2. Open the `index.html` file in any modern web browser.
 
 ## Contribution
